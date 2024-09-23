@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>qwerty1</id>
+   <version></version>
+   <name>qwerty1</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
